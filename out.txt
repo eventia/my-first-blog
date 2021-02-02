@@ -1,0 +1,30 @@
+폴더 PATH의 목록입니다.
+볼륨 일련 번호는 C818-6FE8입니다.
+C:.
+│  db.sqlite3
+│  manage.py
+│  out.txt
+│  
+├─blog
+│  │  admin.py
+│  │  apps.py
+│  │  models.py
+│  │  tests.py
+│  │  views.py
+│  │  __init__.py
+│  │  
+│  └─migrations
+│          __init__.py
+│          
+└─mysite
+    │  settings.py
+    │  urls.py
+    │  wsgi.py
+    │  __init__.py
+    │  
+    └─__pycache__
+            settings.cpython-36.pyc
+            urls.cpython-36.pyc
+            wsgi.cpython-36.pyc
+            __init__.cpython-36.pyc
+            
